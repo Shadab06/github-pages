@@ -12,7 +12,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
-        image: "/github-pages/image/crefin.jpg",
+        image: "/image/crefin.jpg",
     },
     {
         id: 2,
